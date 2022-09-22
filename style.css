@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-header.mainbanner {
+div.mainbanner {
     background-image: url("./resources/images/main_banner.jpeg");
 }
 
